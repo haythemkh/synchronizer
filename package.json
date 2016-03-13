@@ -1,0 +1,23 @@
+{
+  "name": "synchronizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/Fenetre.java",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haythemkh/synchronizer.git"
+  },
+  "keywords": [
+    "Semaphores",
+    "Two ways",
+    "One critical section",
+    "Concurrent threads",
+    "Swing"
+  ],
+  "author": "Haythem Khiri <haythem.khiri@yahoo.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haythemkh/synchronizer/issues"
+  },
+  "homepage": "https://github.com/haythemkh/synchronizer#readme"
+}
